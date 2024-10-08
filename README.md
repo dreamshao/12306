@@ -2,8 +2,8 @@
 
 12306火车票余票查询实时发送邮件及时提醒是否有票！
 
-**![image](https://github.com/user-attachments/assets/dace2c02-6908-45ca-87a5-6baa9d0db589)
-**
+![image](https://github.com/user-attachments/assets/dace2c02-6908-45ca-87a5-6baa9d0db589)
+
 
 ![image](https://github.com/user-attachments/assets/47ed3116-e5ba-48eb-8ce4-938ac5ac3ae8)
 
